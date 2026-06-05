@@ -1,13 +1,63 @@
-# Olá, eu sou o Pietro Henry! 👋
+# 👋 Olá, eu sou Pietro Henry
 
-Sou Técnico em Informática e Desenvolvedor Full-stack em formação pelo Senac, atualmente focado em **Desenvolvimento Web** e **Desenvolvimento de mobile**. Meu objetivo é criar soluções eficientes enquanto construo uma base sólida para atuar em engenharia de softwares.
+💻 **Técnico em Informática formado pelo Senac** e futuro estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-### 🛠 Tecnologias & Ferramentas
-* **Linguagens:** Dart (flutter) e JavaScript (Foco atual).
-* **Interesses:** Automação, DevOps, Hardware Hacking.
-* **Estudando:** Javascript e Redes de Computadores.
+Sou desenvolvedor **Full Stack Web & Mobile**, apaixonado por tecnologia, programação e resolução de problemas. Atualmente foco no desenvolvimento de aplicações web e mobile, buscando criar soluções modernas, eficientes e escaláveis.
 
-### 📫 Contato
-* **Email:** pietrohenryph@gmail.com
+🚀 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades para construir uma carreira sólida na área de desenvolvimento de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pietro-Henry/)
+---
+
+## 👨‍💻 Sobre mim
+
+* 🎓 Técnico em Informática formado pelo Senac
+* 📚 Iniciando a graduação em Análise e Desenvolvimento de Sistemas (ADS)
+* 🌐 Desenvolvedor Full Stack Web
+* 📱 Desenvolvedor Mobile com Flutter
+* 🔧 Interesse em Automação, DevOps e Infraestrutura
+* 🌱 Sempre aprendendo e desenvolvendo novos projetos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,mysql,git,dart,flutter,python,vscode" />
+</p>
+
+### 💡 Principais Tecnologias
+
+* **Front-end:** HTML, Tailwind CSS, JavaScript
+* **Mobile:** Flutter, Dart
+* **Banco de Dados:** MySQL
+* **Versionamento:** Git e GitHub
+* **Programação:** JavaScript, Dart e Python
+* **Editor:** VS Code
+
+---
+
+## 📖 Atualmente estudando
+
+* JavaScript
+* Desenvolvimento Web Moderno
+* Redes de Computadores
+* Estruturas de Dados
+* Análise e Desenvolvimento de Sistemas
+
+---
+
+## 🎯 Objetivos
+
+* Aprimorar minhas habilidades como Desenvolvedor Full Stack
+* Expandir conhecimentos em Engenharia de Software
+* Aprender Cloud Computing e DevOps
+* Contribuir para projetos open source
+* Desenvolver aplicações escaláveis e de alto desempenho
+
+---
+
+## 📫 Contato
+
+📧 **Email:** [pietrohenryph@gmail.com](mailto:pietrohenryph@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/Pietro-Henry/)
