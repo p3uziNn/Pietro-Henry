@@ -10,7 +10,7 @@ Sou desenvolvedor **Full Stack Web & Mobile**, apaixonado por tecnologia, progra
 
 ## 👨‍💻 Sobre mim
 
-* 🎓 Técnico em Informática formado pelo Senac
+* 🎓 Técnico em Informática
 * 📚 Iniciando a graduação em Análise e Desenvolvimento de Sistemas (ADS)
 * 🌐 Desenvolvedor Full Stack Web
 * 📱 Desenvolvedor Mobile com Flutter
@@ -22,7 +22,7 @@ Sou desenvolvedor **Full Stack Web & Mobile**, apaixonado por tecnologia, progra
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,mysql,git,dart,flutter,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,,js,mysql,git,dart,flutter,vscode,html,tailwind" />
 </p>
 
 ### 💡 Principais Tecnologias
@@ -38,11 +38,10 @@ Sou desenvolvedor **Full Stack Web & Mobile**, apaixonado por tecnologia, progra
 
 ## 📖 Atualmente estudando
 
-* JavaScript
-* Desenvolvimento Web Moderno
+* Python e API REST
+* Javascript manipulação da DOM
 * Redes de Computadores
 * Estruturas de Dados
-* Análise e Desenvolvimento de Sistemas
 
 ---
 
