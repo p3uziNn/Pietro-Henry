@@ -22,7 +22,7 @@ Sou desenvolvedor **Full Stack Web & Mobile**, apaixonado por tecnologia, progra
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,git,dart,flutter,vscode,html,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,git,dart,flutter,vscode,html,css,tailwind" />
 </p>
 
 ### 💡 Principais Tecnologias
